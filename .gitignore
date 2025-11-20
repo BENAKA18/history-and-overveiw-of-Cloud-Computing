@@ -1,7 +1,8 @@
-echo "cloud_env/" >> .gitignore
-echo "__pycache__/" >> .gitignore
-echo "*.pyc" >> .gitignore
-echo ".streamlit/" >> .gitignore
-echo ".DS_Store" >> .gitignore
-echo ".vscode/" >> .gitignore
-echo "*.log" >> .gitignore
+cloud_env/
+cloud_env_new/
+__pycache__/
+*.pyc
+.streamlit/
+.DS_Store
+.vscode/
+*.log
