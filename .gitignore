@@ -1,3 +1,13 @@
+cloud_env_new/
+venv/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+.DS_Store
+*.log
 cloud_env/
 cloud_env_new/
 __pycache__/
